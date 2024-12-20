@@ -1,0 +1,160 @@
+debug 2024/10/10 23:56:46 Starting the program...
+debug 2024/10/10 23:56:46 title1: What do you want to do?
+debug 2024/10/10 23:56:46 title2: What do you want to do?
+debug 2024/10/10 23:56:46 title: What do you want to do?
+debug 2024/10/10 23:56:46 title: What do you want to do?
+debug 2024/10/10 23:56:54 title1: Which network do you want to chose ?
+debug 2024/10/10 23:56:54 title2: Which network do you want to chose ?
+debug 2024/10/10 23:56:54 title: Which network do you want to chose ?
+debug 2024/10/10 23:56:59 title: Which network do you want to chose ?
+debug 2024/10/10 23:57:00 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:51 Starting the program...
+debug 2024/10/11 00:35:51 title1: What do you want to do?
+debug 2024/10/11 00:35:51 title2: What do you want to do?
+debug 2024/10/11 00:35:51 title: What do you want to do?
+debug 2024/10/11 00:35:51 title: What do you want to do?
+debug 2024/10/11 00:35:51 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:51 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:51 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:51 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:51 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:52 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:53 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:53 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:54 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:54 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:54 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:55 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:55 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:55 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:55 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:55 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:56 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:56 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:56 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:56 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:56 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:56 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:57 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:57 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:57 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:57 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:57 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:58 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:59 title: Which network do you want to chose ?
+debug 2024/10/11 00:35:59 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:59 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:59 title1: Which network do you want to chose ?
+debug 2024/10/11 00:35:59 title2: Which network do you want to chose ?
+debug 2024/10/11 00:35:59 title: Which network do you want to chose ?
+debug 2024/10/11 00:36:01 Starting the program...
+debug 2024/10/11 00:36:01 title1: What do you want to do?
+debug 2024/10/11 00:36:01 title2: What do you want to do?
+debug 2024/10/11 00:36:01 title: What do you want to do?
+debug 2024/10/11 00:36:01 title: What do you want to do?
+debug 2024/10/11 00:36:01 title: What do you want to do?
+debug 2024/10/11 00:36:02 title: What do you want to do?
+debug 2024/10/11 00:36:03 title: What do you want to do?
+debug 2024/10/11 00:36:04 title1: Which network do you want to chose ?
+debug 2024/10/11 00:36:04 title2: Which network do you want to chose ?
+debug 2024/10/11 00:36:04 title1: Which network do you want to chose ?
+debug 2024/10/11 00:36:04 title2: Which network do you want to chose ?
+debug 2024/10/11 00:36:04 title: Which network do you want to chose ?
+debug 2024/10/11 00:36:04 title1: Which network do you want to chose ?
+debug 2024/10/11 00:36:04 title2: Which network do you want to chose ?
+debug 2024/10/11 00:36:04 title1: Which network do you want to chose ?
+debug 2024/10/11 00:36:04 title2: Which network do you want to chose ?
+debug 2024/10/11 00:36:04 title: Which network do you want to chose ?
+debug 2024/10/11 00:36:05 title1: Which network do you want to chose ?
+debug 2024/10/11 00:36:05 title2: Which network do you want to chose ?
+debug 2024/10/11 00:36:05 title1: Which network do you want to chose ?
+debug 2024/10/11 00:36:05 title2: Which network do you want to chose ?
+debug 2024/10/11 00:36:05 title: Which network do you want to chose ?
+debug 2024/10/11 00:50:18 Starting the program...
+debug 2024/10/11 00:50:18 title1: What do you want to do?
+debug 2024/10/11 00:50:18 title2: What do you want to do?
+debug 2024/10/11 00:50:18 title: What do you want to do?
+debug 2024/10/11 00:50:18 title: What do you want to do?
+debug 2024/10/11 00:50:18 title1: Which network do you want to chose ?
+debug 2024/10/11 00:50:18 title2: Which network do you want to chose ?
+debug 2024/10/11 00:50:18 title: Which network do you want to chose ?
+debug 2024/10/11 00:50:19 title: Which network do you want to chose ?
+debug 2024/10/11 00:50:20 title: Which network do you want to chose ?
+debug 2024/10/11 00:50:20 title1: Which network do you want to chose ?
+debug 2024/10/11 00:50:20 title2: Which network do you want to chose ?
+debug 2024/10/11 00:50:20 title: Which network do you want to chose ?
+debug 2024/10/11 00:50:21 title: Which network do you want to chose ?
+debug 2024/10/11 00:50:22 title1: Which network do you want to chose ?
+debug 2024/10/11 00:50:22 title2: Which network do you want to chose ?
+debug 2024/10/11 00:50:22 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:45 Starting the program...
+debug 2024/10/11 00:51:45 title1: What do you want to do?
+debug 2024/10/11 00:51:45 title2: What do you want to do?
+debug 2024/10/11 00:51:45 title: What do you want to do?
+debug 2024/10/11 00:51:45 title: What do you want to do?
+debug 2024/10/11 00:51:46 title1: Which network do you want to chose ?
+debug 2024/10/11 00:51:46 title2: Which network do you want to chose ?
+debug 2024/10/11 00:51:46 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:47 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:47 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:48 title1: Which network do you want to chose ?
+debug 2024/10/11 00:51:48 title2: Which network do you want to chose ?
+debug 2024/10/11 00:51:48 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:48 title1: Which network do you want to chose ?
+debug 2024/10/11 00:51:48 title2: Which network do you want to chose ?
+debug 2024/10/11 00:51:48 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:49 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:49 title1: Which network do you want to chose ?
+debug 2024/10/11 00:51:49 title2: Which network do you want to chose ?
+debug 2024/10/11 00:51:49 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:51 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:52 title: Which network do you want to chose ?
+debug 2024/10/11 00:51:52 title1: Which network do you want to chose ?
+debug 2024/10/11 00:51:52 title2: Which network do you want to chose ?
+debug 2024/10/11 00:51:52 title: Which network do you want to chose ?
+debug 2024/10/11 00:52:14 Starting the program...
+debug 2024/10/11 00:52:14 title1: What do you want to do?
+debug 2024/10/11 00:52:14 title2: What do you want to do?
+debug 2024/10/11 00:52:14 title: What do you want to do?
+debug 2024/10/11 00:52:14 title: What do you want to do?
+debug 2024/10/11 00:52:16 title1: Which network do you want to chose ?
+debug 2024/10/11 00:52:16 title2: Which network do you want to chose ?
+debug 2024/10/11 00:52:16 title: Which network do you want to chose ?
+debug 2024/10/11 00:52:18 title: Which network do you want to chose ?
+debug 2024/10/11 00:52:19 title1: Which network do you want to chose ?
+debug 2024/10/11 00:52:19 title2: Which network do you want to chose ?
+debug 2024/10/11 00:52:19 title: Which network do you want to chose ?
+debug 2024/10/12 23:15:10 title1: Which network do you want to chose ?
+debug 2024/10/12 23:15:10 title2: Which network do you want to chose ?
+debug 2024/10/12 23:15:10 title: Which network do you want to chose ?
+debug 2024/10/12 23:15:10 title1: Which network do you want to chose ?
+debug 2024/10/12 23:15:10 title2: Which network do you want to chose ?
+debug 2024/10/12 23:15:10 title: Which network do you want to chose ?
+debug 2024/10/12 23:15:10 title: Which network do you want to chose ?
+debug 2024/10/12 23:15:11 title1: Which network do you want to chose ?
+debug 2024/10/12 23:15:11 title2: Which network do you want to chose ?
+debug 2024/10/12 23:15:11 title: Which network do you want to chose ?
+debug 2024/10/12 23:15:11 title1: Which network do you want to chose ?
+debug 2024/10/12 23:15:11 title2: Which network do you want to chose ?
+debug 2024/10/12 23:15:11 title: Which network do you want to chose ?
+debug 2024/10/12 23:15:12 title1: Which network do you want to chose ?
+debug 2024/10/12 23:15:12 title2: Which network do you want to chose ?
+debug 2024/10/12 23:15:12 title: Which network do you want to chose ?
+debug 2024/10/12 23:15:12 title1: Which network do you want to chose ?
+debug 2024/10/12 23:15:12 title2: Which network do you want to chose ?
+debug 2024/10/12 23:15:12 title: Which network do you want to chose ?
+debug 2024/10/12 23:15:12 title: Which network do you want to chose ?
